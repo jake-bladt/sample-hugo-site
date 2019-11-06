@@ -1,7 +1,7 @@
 ---
 title: "A Sample Post"
 date: 2019-11-05T23:26:50-05:00
-draft: true
+draft: false
 ---
 
 Working from memory as I type this on my phone over dinner.
